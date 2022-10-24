@@ -1,0 +1,14 @@
+[project]
+name = "AirCraftWarGame"
+version = "0.0.1"
+authors = [
+  { name="Sayed Arman", email="sayedarman012@gmail.com" },
+]
+description = "This Project IS The Library of AirCraft War Game"
+readme = "README.md"
+requires-python = ">=3.10.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]s
